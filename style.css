@@ -1,0 +1,14 @@
+img {
+    height: 50%;
+}
+
+body {
+    text-align: center;
+    font-family: Arial;
+    background: azure;
+    color: purple;
+}
+
+h1 {
+    font-size: larger;
+}
